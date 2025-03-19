@@ -1,4 +1,4 @@
-# Create arrays for locations1 and locations2, counter for reading contents and current smallest number for both arrays
+# Create arrays for locations1 and locations2, counter for reading contents
 locations1 = []
 locations2 = []
 counter = 2
